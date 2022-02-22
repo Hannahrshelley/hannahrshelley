@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah
 - 👀 I’m interested in research data, bibliometrics, systematic database searching
-- 🌱 I’m looking at learning to code
+- 🌱 I’m learning to code
 - 📫 How to reach me... Hannahrshelley@gmail.com
 
 <!---
